@@ -5,14 +5,14 @@ I'm a CS undergrad at IIIT Sri City. My daily driver is Debian (KDE + Sway), and
 When I'm not in Vim, I lead **ENIGMA** (our campus systems club) and help run the national Inter-IIIT Hackathon.
 
 ### ⚡ What I'm building right now
-- **`struct`**: A CLI tool for project scaffolding. I'm writing the core system operations in C and the interactive TUI in Go using Bubble Tea.
-- Poking around **EXT4**: Writing raw disk parsers in pure C to read superblocks and inode tables from binary images without relying on external libraries.
-- **Side quests**: Researching parallel computing (MPI) in C, figuring out the absolute lowest levels of the GIF file format structure, and doing a bit of geospatial analysis around Tirupati.
+- **`searchEngine`**: A Custom made Search Engine for finding relevant questions from a 17,000+ stackoverflow questions corpus.
+- Poking around **OpenJev**: making an application called nutriParse where it recognizes the nutrition details of a packaged food item and will go through a deterministic pipeline which uses nutri-score metrics and uses OpenJev to determine how reliable the score generated using the source data.
+- **Side quests**: Trying to understand how to do better optimization .
 
 ### 🧰 The Toolbox
-- **OS & Environment:** Debian, KDE, Sway window manager
-- **Languages:** C, Go, Bash, Python, JavaScript, Java
-- **Core Systems:** Linux internals, EXT4, Memory Management, Parallel Computing (MPI)
+- **OS & Environment:** Debian, Ubuntu, KDE, Sway window manager
+- **Languages:** C, Go, Bash, JavaScript, Java
+- **Core Systems:** Linux internals, EXT4, Memory Management
 - **Tools:** GCC, GDB, Git, Vim, Raylib, React, top/htop/btop
 
 ### 📊 GitHub Stats
