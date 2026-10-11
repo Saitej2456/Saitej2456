@@ -2,7 +2,7 @@
 
 I'm a CS undergrad at IIIT Sri City. My daily driver is Debian (KDE + Sway), and I spend way too much time in the terminal. I focus on core systems development, raw C, and Linux internals mostly because, honestly, I just think it's cool. 
 
-When I'm not in Vim, I lead **ENIGMA** (our campus systems club) and help run the national Inter-IIIT Hackathon.
+When I'm not in Vim, I am the ex-lead **ENIGMA** (our campus systems club) and the Program Director of national Inter-IIIT Hackathon 25-26.
 
 ### ⚡ What I'm building right now
 - **`searchEngine`**: A Custom made Search Engine for finding relevant questions from a 17,000+ stackoverflow questions corpus.
