@@ -6,14 +6,14 @@ When I'm not in Vim, I am the ex-lead **ENIGMA** (our campus systems club) and t
 
 ### ⚡ What I'm building right now
 - **`searchEngine`**: A Custom made Search Engine for finding relevant questions from a 17,000+ stackoverflow questions corpus.
-- Poking around **OpenJev**: making an application called nutriParse where it recognizes the nutrition details of a packaged food item and will go through a deterministic pipeline which uses nutri-score metrics and uses OpenJev to determine how reliable the score generated using the source data.
-- **Side quests**: Trying to understand how to do better optimization .
+- **Exploration**: Dwelling into backend architectural technologies. 
+- **Side quests**: Trying to understand how to do better optimization.
 
 ### 🧰 The Toolbox
-- **OS & Environment:** Debian, Ubuntu, KDE, Sway window manager
-- **Languages:** C, Go, Bash, JavaScript, Java
+- **OS & Environment:** Debian, Ubuntu, KDE, Gnome, Sway window manager
+- **Languages:** C, Python, Bash, Java, Javascript, Go
 - **Core Systems:** Linux internals, EXT4, Memory Management
-- **Tools:** GCC, GDB, Git, Vim, Raylib, React, top/htop/btop
+- **Tools:** GCC, GDB, Git, Vim, 
 
 ### 📊 GitHub Stats
 
